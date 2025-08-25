@@ -1,0 +1,59 @@
+.main{
+    width: 1180px; margin: 0 auto; position: relative; color: white; font-family:'Segoe UI', Tahoma;
+}
+
+.page-one{width: 100%; height: 730px; background-image: url('photos/photo-one.jpg'); text-align: center;}
+
+.upper{height: 520px; background-color: rgb(255, 195, 29, 0.85);}
+
+.month{padding-top: 90px;}
+
+.upper h1{font-size: 80px; font-weight: 900; margin-bottom: 0; }
+
+.upper h2{font-size: 24px; font-weight: 700; margin: 0}
+
+.upper p{font-size: 18px; width: 650px; font-weight: 400; margin: 0 auto; }
+
+.page-btn{background-color: rgb(51, 51, 62); color: white; padding: 10px 35px; font-size: 18px; font-weight: bold; margin-top: 50px; margin-bottom: 0; border: 0}
+
+.lower{height: 210px; background-color: rgb(51, 51, 51); margin: 0; padding: 0;}
+
+.lower h2{font-size: 32px; padding-top: 40px; margin: 0;}
+
+.lower p{font-size: 18px; width: 650px; margin: 0 auto; font-weight: 400; padding-top: 20px;}
+
+.page-two{display: flex; flex-direction: row; width: 100%; padding: 0; margin: 0; border: 0;}
+
+.photo img{width: 590px; height: 730px; display:block}
+
+.information{color: black; padding: 70px; margin: 0; font-size: 18px; font-weight: 400; width: 590px; background-color: rgb(249, 249, 249);}
+
+.information h2{font-size: 36px; font-weight: 700; margin: 0; padding-bottom: 20px; width: 400px; margin-top: 20px}
+
+.information p{width: 380px;}
+
+#b2{background-color: rgb(255, 195, 29); color: rgb(0, 0, 0);}
+
+.page-three{display: flex; flex-direction: row; width: 100%; margin: 0; padding: 0; border: 0;}
+
+.page-four{width: 100%; height: 730px; background-image: url('photos/photo-four.jpg'); text-align: center;}
+
+#id2{background-color: rgb(255, 195, 29); color: black}
+
+#id2 p{font-size: 18px; width: 640px; margin: 0 auto; font-weight: 400; padding-top: 20px;}
+
+.container{background-color: rgba(0, 0, 0, 0.707); height: 520px;  justify-content: center;}
+
+
+
+.logos{padding-top: 100px; display: flex; flex-direction: row; gap: 20px; justify-content: center; padding-bottom: 20px;}
+
+.logos img{width: 40px; height: 40px;}
+
+.desc p{padding: 15px; margin: 0 auto;}
+
+.text{font-size: 18px; color: white; width: 680px; text-align: center;}
+
+.text-one{font-size: 18px; color: white; width: 780px; text-align: center; margin: 0;}
+
+#id3{background-color: rgb(255, 195, 29); color: black; margin: 50px;}
